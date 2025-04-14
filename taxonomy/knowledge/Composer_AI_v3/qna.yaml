@@ -1,9 +1,9 @@
 version: 3
-domain: Composer v3 Minimum Viable Product Plan
+domain: Composer AI v3
 created_by: solaius
 seed_examples:
 - context: |
-    ## 🧠 Composer AI v3 - MVP Outline Project Scope:
+    ## 🧠 Composer AI v3
 
     ## TECHNICAL REQUIREMENTS
 
