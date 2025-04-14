@@ -106,24 +106,24 @@ seed_examples:
     - question: What week is the Llama Stack Local MVP milestone scheduled for?
       answer: The Llama Stack Local MVP milestone is scheduled for Week 1.
 - context: |
-  ## 📚 Phase 3: RAG &amp; Data Pipeline (Week 4-6)
+    ## 📚 Phase 3: RAG &amp; Data Pipeline (Week 4-6)
 
-  - ● Select and deploy Vector DB
-  - ● Rebuild ingestion pipeline (Trevor lead)
-  - ● Enable RAG CRUD in UI
-  - ● Start initial GraphRAG integration (optional)
+    - ● Select and deploy Vector DB
+    - ● Rebuild ingestion pipeline (Trevor lead)
+    - ● Enable RAG CRUD in UI
+    - ● Start initial GraphRAG integration (optional)
 
-  ## 🤝 Phase 4: MCP Integration (Week 5-7)
+    ## 🤝 Phase 4: MCP Integration (Week 5-7)
 
-  - ● Add MCP registration APIs
-  - ● Build UI to register/view/activate MCP servers
-  - ● MVP use case: Trello or Jira issue creation
+    - ● Add MCP registration APIs
+    - ● Build UI to register/view/activate MCP servers
+    - ● MVP use case: Trello or Jira issue creation
 
-  ## 🔬 Phase 5: Evals &amp; Comparison (Week 6-8)
+    ## 🔬 Phase 5: Evals &amp; Comparison (Week 6-8)
 
-  - ● Add evaluation support (manual/test scripts)
-  - ● Standalone vs Comparison chatbot features
-  - ● Add agent metrics visualization
+    - ● Add evaluation support (manual/test scripts)
+    - ● Standalone vs Comparison chatbot features
+    - ● Add agent metrics visualization
   questions_and_answers:
     - question: What is the focus of Phase 4 in the Composer AI v3 MVP delivery plan?
       answer: Phase 4 focuses on MCP integration, including adding registration APIs and building a UI for server management.
@@ -132,24 +132,24 @@ seed_examples:
     - question: What is the goal of the GraphRAG integration in Phase 3?
       answer: The goal of the GraphRAG integration is to explore advanced use cases, although it is optional for this phase.
 - context: |
-  ## STAGED DELIVERY PLAN
+    ## STAGED DELIVERY PLAN
 
-  - ● Deploy Llama Stack locally
+    - ● Deploy Llama Stack locally
 
-  ## 🚧 🏗 Phase 1: MVP - Agent Enablement (Week 1-2)
+    ## 🚧 🏗 Phase 1: MVP - Agent Enablement (Week 1-2)
 
-  - ● Port over IT Productivity agents
-  - ● Enable agent list, create/delete
-  - ● Set up the UI for agent chat
-  - ● Run PatternFly UI tests (Claude compatibility)
+    - ● Port over IT Productivity agents
+    - ● Enable agent list, create/delete
+    - ● Set up the UI for agent chat
+    - ● Run PatternFly UI tests (Claude compatibility)
 
-  ## 📦 Phase 2: Platform Infrastructure (Week 2-4)
+    ## 📦 Phase 2: Platform Infrastructure (Week 2-4)
 
-  - ● Helm chart refactor (split DB)
-  - ● Deploy to OpenShift ROSA
-  - ● GitOps pipelines configured
-  - ● UI containerized and deployed
-  - ● Frontend switch to PatternFly (if feasible)
+    - ● Helm chart refactor (split DB)
+    - ● Deploy to OpenShift ROSA
+    - ● GitOps pipelines configured
+    - ● UI containerized and deployed
+    - ● Frontend switch to PatternFly (if feasible)
 questions_and_answers:
     - question: What is the focus of Phase 2 in the Composer AI v3 MVP delivery plan?
       answer: Phase 2 focuses on platform infrastructure, including Helm chart refactoring, deploying to OpenShift ROSA, and configuring GitOps pipelines.
