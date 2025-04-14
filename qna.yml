@@ -161,6 +161,6 @@ document_outline: |
   Composer AI v3 MVP outlines the phased rebuild plan for a modular AI platform using Llama Stack, vLLM, MCP, and OpenShift AI.
 document:
   repo: https://github.com/solaius/ilabtest.git
-  commit: <COMIT DATA>
+  commit: e1fdb05e4453c4c8f1a93852ed152de10bfaf0bd
   patterns:
     - knowledge.md
